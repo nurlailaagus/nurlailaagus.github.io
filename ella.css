@@ -1,0 +1,31 @@
+body{
+	background-image: url("backgroundimage.jpg.jpg");
+}
+
+h1{
+	border-bottom: double
+	border-top:double;
+	border-right:double;
+	border-left:double;
+	background-color: Mistyrose
+}
+
+p{
+	text-align: center;
+}
+
+h2{
+	border-bottom: solid
+	border-top:solid;
+	border-right:double;
+	border-left:double;
+	font-family: arial, sans-serif;
+	background-color: MistyRose
+}
+h3{
+	text-align: center
+}
+h4{
+	 text-align: center;
+	 font-size: 35px;
+}
